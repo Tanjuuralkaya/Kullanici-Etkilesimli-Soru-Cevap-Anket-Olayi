@@ -1,0 +1,52 @@
+10	4	Genel olarak çalýþanýnýz iþinde ne kadar etkili?
+11	4	Çalýþanýnýzýn davranýþlarý ne kadar profesyonel?
+12	4	Çalýþanýnýz kendisi ile ilgili belirlenen hedeflere ulaþmak için ne kadar iyi çalýþýyor?
+13	4	Çalýþanýnýz iþte iyi mi?
+14	4	 Çalýþanýnýz deðiþen önceliklere  ne derecede adapte oluyor?
+15	4	Çalýþanýnýz taleplere ne derecede hýzlý karþýlýk veriyor?
+17	4	Çalýþanýnýz taleplere ne derecede hýzlý karþýlýk veriyor?
+18	4	Çalýþanýnýz diðer çalýþanlarla ne kadar iyi iþ birliði yapýyor?
+19	4	Çalýþanýnýz ne derecede çalýþkan?
+20	4	 Çalýþanýnýz ne sýklýkta kendi hatalarýnýn sorumluluðunu alýyor?
+21	4	Çalýþanýnýz ayrýntýlara dikkat etmede durumu nedir?
+22	4	Çalýþanýnýzýn size karþý davranýþlarý ne kadar saygýlý?
+23	1	 Genel olarak hizmetimizden memnun musunuz?
+24	1	 Geçmiþte hizmetimizi nasýl buldunuz?
+25	1	Hizmetimizi kullandýktan sonra, sizcefiyatlarýmýz nasýl?
+26	1	Rakiplerimize nazaran fiyatlarýmýz ne derecede?
+27	1	 Size göre hizmetimiz ne kadar faydalý?
+
+28	1	Size göre þirketimiz ihtiyaçlarýnýzý r anlýyor mu?
+29	1	 Size göre þirketimiz gizliliðinizi ne kadar koruyor?
+30	1	 Genel olarak þirketimiz hizmetimizle ilgili sorularýnýza veya endiþelerinize karþý ne derece de hassas?
+31	1	 Baþkalarýný hizmetini kullanmaktan vazgeçilebilir mi?
+32	1	Hizmetimizi baþkalarýna önermeniz  mümkün mü?
+33	2	Genel olarak iþyerinizden memnun musunz?
+34	2	Ýþ yerinizin çalýþma ortamý güzel mi?
+35	2	rketinizde çalýþanlarýn yetenekleri ne kadar iyi kullanýlýyor?
+36	2	Çalýþanlar þirket hedeflerinin belirlenmesine ne derecede  katýlýyor?
+37	2	 Ýþvereninizin þirkete iliþkin temel deðerlerine inancýnýz ne kadar güçlü?
+38	2	Þirket hedefleri ne kadar net?
+39	2	 Ýþvereninizin markasýyla ne derecede gurur duyuyorsunuz?
+40	2	Sizce bu þirket ürün kalitesine ne derece deðer veriyor?
+41	2	Sizce iþiniz anlamlý mý?
+42	2	Þirketinizde süre kýsýtlamalarýna ne derecede uyuluyor?
+43	2	Yaptýðýnýz iþ için aldýðýnýz ödeme ne kadar iyi?
+44	3	Kayýtlarýmýz saðlýk kuruluþunuzdan yaralandaðýný gösrermektedir dðoðru mu?
+45	3	Son 12 ayda tedavi , yaralanma yada hastalýk için hastane kuruluþumuzu aradýnýz mý?
+46	3	Ne derecede hastane kuruluþumuza baþvurdunuz ?
+47	3	Son on iki ayda saðlýk kurulunuz sizi aradý mý ?
+48	3	Son 12 ay içinde, düzenli çalýþma saatleri sonrasý saðlýk kuruluþunuz týbbi sorular için sizi aradý mý
+49	3	En son ziyaret sýrasýnda saðlýk kurluþunuz birþeyleri açýklamak için kolay anlattý mý ?
+50	3	En son saðlýlk ziyaretinizde saðlýk kuruluþunuz sizi dikkatlice dinledi mi?
+51	3	En son saðlýk ziyaretinde saðlýk kuruluþunuzla herhangi bir saðlýk konusunda ya da merak uyandýran birþey hakkýnda konuþtýnuz mu ?
+52	3	En son ziyaretinizde saðlýk kurulþunuz size saygý gösterdi mi?
+53	3	Saðlýk kuruluþunuzu nasýl buldunuz?
+54	3	Genel olarak saðlýk kurluþunuzu nasýl deðerlendirirsiniz?
+55	3	Genel olarak zihinsel ve duygusal saðlýðý nasýl deðerlendiridiniz?
+58	5	Bu þirkette þefiniz oldukça sizi yönlendirdi mi?
+59	5	Þefiniz iyi iþ için sizi ödüllendirdi mi ?
+60	5	Süpervizörünüzn beklentileri ne ölçüde gerçekci?
+61	5	Kararlar süpervizörünüz tarafýndan ne ölçüde destekleþtirildi ?
+62	5	Süpervizörünüz ne derecede görüþlerinizi dinliyordu ?  Aþaðýdaki kutucuklara derecelendirerek yanýtlayýnýz.
+63	5	Süpervizörünüz çalýþanlarýn gözetmenliðini kontrol eder miydi?
